@@ -207,5 +207,3 @@ langs.push("ggg")
 langs.pop()
 console.log(langs);
 console.log(langs[2]);
-
-
